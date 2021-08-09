@@ -1,0 +1,31 @@
+body {
+    background: black;
+    margin-top: 10%;
+ }
+ .container {
+    
+    padding: 0;
+    background: #FDDE7E;
+    width: 1200px;
+    height: 600px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    flex-direction:row;
+    justify-content: space-evenly;
+}
+.bronze {
+    width: 361px;
+    height: 446px;
+    background: #FFFFFF;
+}
+.silver {
+    width: 361px;
+    height: 446px;
+    background: #FFFFFF;
+}
+.gold {
+    width: 361px;
+    height: 500px;
+    background: #FFFFFF;
+}
