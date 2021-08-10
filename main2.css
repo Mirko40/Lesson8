@@ -95,9 +95,18 @@ text-transform:uppercase;
     font-family: "Hans Kendrick";
     margin-left: 25px;
     margin-right: 25px;
-    margin-top: 50px;
+    margin-top: 60px;
     text-transform:uppercase;
     }
+    .text4 {
+        font-size: 13px;
+        letter-spacing: 0px;
+        line-height: 30px;
+        color: #99a5b0;
+        font-family: "Hans Kendrick";
+        text-transform:uppercase;
+        margin-left: 10px;
+        }
 .face {
     margin-bottom: 25px;
     margin-left: 25px;
@@ -143,10 +152,12 @@ text-transform:uppercase;
     background:#FFFFFF ;
 }
 .image6 {
-   
+    display: flex;
+    justify-content: center;
+    align-items:center;
     box-sizing: border-box;
     width: 300px;
     height: 60px;
-    border: 2px solid red;
+    /* border: 2px solid red; */
     margin-bottom: 60px;
 }
